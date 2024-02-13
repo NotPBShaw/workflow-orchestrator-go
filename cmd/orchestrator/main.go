@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"event-driven-workflow-orchestrator/internal/workflow"
+	"workflow-orchestrator-go/internal/workflow"
 )
 
 func main() {
