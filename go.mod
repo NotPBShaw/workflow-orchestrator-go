@@ -1,3 +1,3 @@
-module github.com/TryKosm/workflow-orchestrator-go
+module github.com/NotPBShaw/workflow-orchestrator-go
 
 go 1.22
